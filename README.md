@@ -27,11 +27,11 @@ Building AI-Powered Cybersecurity Solutions & Security Automation Platforms
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
 ![CEH v13](https://img.shields.io/badge/CEH-v13-success?style=for-the-badge)
 
-## 🛡️ Certifications
+## 🏆 Certifications
 
-* CEH v13 – EC-Council
-* Cisco Ethical Hacker
-* Cisco Introduction to Cybersecurity
+- CEH v13 (EC-Council)
+- Cisco Ethical Hacker
+- Cisco Introduction to Cybersecurity
 
 ---
 
@@ -67,36 +67,28 @@ Building AI-Powered Cybersecurity Solutions & Security Automation Platforms
 
 ## 🚀 Featured Projects
 
-### AntiPhishX
+## 🚀 Featured Cybersecurity Projects
 
-Generative AI Driven Phishing Emulator & Defense Trainer
+### 🔐 AntiPhishX
+Generative AI Driven Phishing Emulator & Defense Trainer.
 
-Features:
+### 🎯 ML-Based Phishing Detection System
+Machine learning platform for detecting malicious URLs.
 
-* AI Phishing Scenario Generator
-* Phishing URL Detection
-* Executive Intelligence Dashboard
-* Behavioral Analytics
-* MITRE ATT&CK Mapping
-* Security Awareness Training
+### 🛡️ USB Intrusion Detection System
+Real-time endpoint security monitoring solution.
 
----
+### 📊 CVE Management System
+Security vulnerability tracking and analysis platform.
 
-### ML-Based Phishing Detection System
+### 🔐 AntiPhishX
+🔗 Repository: https://github.com/pchaitanya921/AntiPhishX
 
-Machine learning platform for identifying malicious URLs using feature extraction and classification models.
+### 🎯 ML-Based Phishing Detection System
+🔗 Repository: https://github.com/pchaitanya921/ML-Phishing-Detection-System
 
----
-
-### USB Intrusion Detection System
-
-Endpoint security solution for monitoring and detecting unauthorized USB activity in real time.
-
----
-
-### CVE Management System
-
-Security vulnerability management platform for tracking, analyzing, and monitoring CVEs.
+### 🛡️ USB Intrusion Detection System
+🔗 Repository: https://github.com/pchaitanya921/USB-Intrusion-Detection-System
 
 ---
 
@@ -130,3 +122,4 @@ github.com/pchaitanya921
 ---
 
 ⭐ Building practical cybersecurity solutions and continuously learning modern security operations.
+![](https://komarev.com/ghpvc/?username=pchaitanya921&color=blue)
