@@ -20,6 +20,13 @@ Building AI-Powered Cybersecurity Solutions & Security Automation Platforms
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+![CEH v13](https://img.shields.io/badge/CEH-v13-success?style=for-the-badge)
+
 ## 🛡️ Certifications
 
 * CEH v13 – EC-Council
