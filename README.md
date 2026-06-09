@@ -109,10 +109,9 @@ Python • JavaScript • React • Node.js • Linux • MySQL • Wireshark �
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pchaitanya921&show_icons=true&theme=github_dark)
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchaitanya921&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchaitanya921&layout=compact&theme=github_dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchaitanya921&layout=compact)
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326
