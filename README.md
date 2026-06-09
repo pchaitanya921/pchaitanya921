@@ -107,11 +107,7 @@ Security vulnerability management platform for tracking, analyzing, and monitori
 
 Python • JavaScript • React • Node.js • Linux • MySQL • Wireshark • Nmap
 
-## 📊 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchaitanya921&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchaitanya921&layout=compact)
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326
