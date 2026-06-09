@@ -109,12 +109,11 @@ Python • JavaScript • React • Node.js • Linux • MySQL • Wireshark �
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326
+- LinkedIn: https://www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326
 - Portfolio: https://protifolio-rust.vercel.app/
-## 🌐 Connect With Me
+- Email: chaitanyasai9391@gmail.com
 
-LinkedIn:
-[www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326](http://www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326)
+⭐ Building practical cybersecurity solutions and continuously learning modern security operations.
 
 GitHub:
 github.com/pchaitanya921
