@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I'm Pallapati Lakshmi Chaitanya Sai</h1>
 
 <h3 align="center">
-CEH v13 Certified | Cybersecurity Engineer | SOC Operations | Incident Response | Threat Detection
+CEH v13 Certified | Cybersecurity Engineer
+
+SOC Operations | Incident Response | Threat Detection | Vulnerability Assessment
+
+Building AI-Powered Cybersecurity Solutions & Security Automation Platforms
 </h3>
 
 ---
