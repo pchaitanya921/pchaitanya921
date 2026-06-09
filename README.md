@@ -103,11 +103,20 @@ Security vulnerability management platform for tracking, analyzing, and monitori
 * Blue Team Operations
 
 ---
+## 🛠️ Tech Stack
+
+Python • JavaScript • React • Node.js • Linux • MySQL • Wireshark • Nmap
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pchaitanya921&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchaitanya921&layout=compact&theme=github_dark)
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/pallapati-lakshmi-chaitanya-sai-397741326
+- Portfolio: https://protifolio-rust.vercel.app/
 ## 🌐 Connect With Me
 
 LinkedIn:
